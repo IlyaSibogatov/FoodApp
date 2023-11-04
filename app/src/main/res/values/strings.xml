@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+
+    <string name="menu_label">Menu</string>
+    <string name="cart_label">Cart</string>
+    <string name="profile_label">Profile</string>
+
+    <string name="price_label">price of: %1$s$</string>
+</resources>
